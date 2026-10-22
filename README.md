@@ -30,6 +30,8 @@ Research headings on the website describe research themes; they are not presente
 
 The complete bibliography was imported from `CV_EN.tex` at revision `98574744d53bfaf5fbb3fc23f3fbb6bdc078ecf8`: 21 journal articles, 6 book chapters, and 9 conference contributions. It retains original titles, author lists, CV publication years, conference dates, and in-press labels. Only bibliographic records are copied, not the full private CV.
 
+The TARES role follows the updated `CV_ES.tex` at the same revision: “Consultor en estructuras históricas,” rendered as “Historic Structures Consultant” in English. Its timeline description retains the six temple assessments, two restoration projects, multidisciplinary coordination, and on-site construction supervision. This supersedes the older English CV role title.
+
 Images retain the authorship and rights of their original portfolio contributions; this repository does not grant a new licence for those works.
 
 ## Publication metrics and maintenance
