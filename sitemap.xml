@@ -10,4 +10,14 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://r-eudave.github.io/?lang=en"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://r-eudave.github.io/?lang=es"/>
   </url>
+  <url>
+    <loc>https://r-eudave.github.io/publications.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://r-eudave.github.io/publications.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://r-eudave.github.io/publications.html?lang=es"/>
+  </url>
+  <url>
+    <loc>https://r-eudave.github.io/publications.html?lang=es</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://r-eudave.github.io/publications.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://r-eudave.github.io/publications.html?lang=es"/>
+  </url>
 </urlset>

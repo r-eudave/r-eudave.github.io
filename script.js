@@ -1,7 +1,14 @@
 "use strict";
 
 const language = new URLSearchParams(window.location.search).get("lang") === "es" ? "es" : "en";
+const isPublicationsPage = document.body.dataset.page === "publications";
+const pagePath = isPublicationsPage ? "publications.html" : "";
 document.documentElement.lang = language;
+document.querySelectorAll("[data-local-page]").forEach((link) => {
+  const destination = new URL(link.href);
+  destination.searchParams.set("lang", language);
+  link.href = destination.href;
+});
 document.querySelectorAll("[data-language]").forEach((link) => {
   if (link.dataset.language === language) {
     link.setAttribute("aria-current", "true");
@@ -31,16 +38,20 @@ if (language === "es") {
   document.querySelectorAll("[data-es-aria]").forEach((element) => {
     element.setAttribute("aria-label", element.dataset.esAria);
   });
-  document.title = "Rafael Ramírez Eudave | Patrimonio, riesgo y digitalización";
+  document.title = isPublicationsPage
+    ? "Publicaciones | Rafael Ramírez Eudave"
+    : "Rafael Ramírez Eudave | Patrimonio, riesgo y digitalización";
   document.querySelector('meta[name="description"]').content =
-    "Rafael Ramírez Eudave trabaja en la intersección del patrimonio, el riesgo y la digitalización, conectando evaluación sísmica, memoria colectiva y documentación digital en TU Delft.";
+    isPublicationsPage
+      ? "Lista completa de publicaciones de Rafael Ramírez Eudave: artículos, capítulos de libro y contribuciones a congresos, con citas de Crossref y fechas de consulta."
+      : "Rafael Ramírez Eudave, arquitecto con estudios en ingeniería civil, investiga la intersección del patrimonio, el riesgo y la digitalización en TU Delft.";
   document.querySelector('meta[property="og:title"]').content = document.title;
   document.querySelector('meta[property="og:description"]').content =
     document.querySelector('meta[name="description"]').content;
-  document.querySelector('meta[property="og:url"]').content = "https://r-eudave.github.io/?lang=es";
+  document.querySelector('meta[property="og:url"]').content = `https://r-eudave.github.io/${pagePath}?lang=es`;
   document.querySelector('meta[property="og:image:alt"]').content =
     "Reconstrucción fotogramétrica de la Igreja dos Grilos en Oporto";
-  document.querySelector('link[rel="canonical"]').href = "https://r-eudave.github.io/?lang=es";
+  document.querySelector('link[rel="canonical"]').href = `https://r-eudave.github.io/${pagePath}?lang=es`;
 }
 
 window.addEventListener("hashchange", () => {

@@ -1,0 +1,448 @@
+{
+  "source_revision": "98574744d53bfaf5fbb3fc23f3fbb6bdc078ecf8",
+  "records": [
+    {
+      "category": "journal",
+      "title": "Learning from past earthquakes: a comparative analysis and unified framework for proactive seismic risk management of vernacular heritage in Historic Urban Landscapes",
+      "citation": "(2026) Ramírez Eudave, R., Ferreira, T. M., Romão, X., Baquedano-Julià, P., Palazzi, N. C., Stepinac, M., Masciotta, M. G., Cianchino, G., Brando, G. International Journal of Disaster Risk Reduction, in press.",
+      "year": 2026,
+      "doi": "10.1016/j.ijdrr.2026.106344",
+      "metrics": {
+        "status": "available",
+        "citations": 0,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1016/j.ijdrr.2026.106344"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Toward policy-informed 3D urban land-use simulations by leveraging urban planning regulations: Case studies in Zurich and Copenhagen",
+      "citation": "(2026) Abolhasani, S., Ramírez Eudave, R., Hersperger, A. Land Use Policy, 170, 108189.",
+      "year": 2026,
+      "doi": "10.1016/j.landusepol.2026.108189",
+      "metrics": {
+        "status": "available",
+        "citations": 0,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1016/j.landusepol.2026.108189"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Communities co-creating metadata: a new paradigm towards FAIR everyday heritage",
+      "citation": "(2026) Ramírez Eudave, R., Ferreira, T. M., Giardina, G. npj Heritage Science, in press.",
+      "year": 2026,
+      "doi": "10.1038/s40494-026-02706-1",
+      "metrics": {
+        "status": "available",
+        "citations": 0,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1038/s40494-026-02706-1"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Digital permeation of urban planning practice: The issue of standardisation",
+      "citation": "(2026) Hersperger, A. M., Abolhasani, S., Domingo, D., Fertner, C., Maurer, Y., Ramírez Eudave, R., Saakjans, D., Soria-Lara, J., van Vliet, J. Cities, 175, 107186.",
+      "year": 2026,
+      "doi": "10.1016/j.cities.2026.107186",
+      "metrics": {
+        "status": "available",
+        "citations": 0,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1016/j.cities.2026.107186"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Implementing the Historic Urban Landscape (HUL) Approach: Learning from Interventions in Swiss Heritage Sites",
+      "citation": "(2026) Ramírez Eudave, R., and Hersperger, A. M. The Historic Environment: Policy & Practice, 17(2), 363–388.",
+      "year": 2026,
+      "doi": "10.1080/17567505.2026.2651675",
+      "metrics": {
+        "status": "available",
+        "citations": 1,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1080/17567505.2026.2651675"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Perspectives on the resilience of existing bridges to short- and long-term impacts of climate change",
+      "citation": "(2026) Shaban, N., Arango, E., Jiménez Rios, A., Rincon, L. F., Shang, Y., Habeeb, B., Martín-Pérez, B., Ferreira, T. M., Mendoza-Lugo, M. A., Ramírez Eudave, R., Bastidas-Arteaga, E., Sousa, H. S., and Nogal, M. Structure and Infrastructure Engineering, 1–26.",
+      "year": 2026,
+      "doi": "10.1080/15732479.2026.2651414",
+      "metrics": {
+        "status": "available",
+        "citations": 4,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1080/15732479.2026.2651414"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Assessing the spatiotemporal impact of users' exposure and vulnerability to flood risk in urban built environments",
+      "citation": "(2024) Bernardini, G., Ferreira, T. M., Baquedano Julià, P., Ramírez Eudave, R., and Quagliarini, E. Sustainable Cities and Society, 100, 105043.",
+      "year": 2024,
+      "doi": "10.1016/j.scs.2023.105043",
+      "metrics": {
+        "status": "available",
+        "citations": 49,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1016/j.scs.2023.105043"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "A Systematic Review of Integrated Frameworks for Resilience and Sustainability Assessments for Critical Infrastructures",
+      "citation": "(2024) Leal, O. J. U., Fekete, A., Ramírez Eudave, R., Matos, J. C., Sousa, H., and Teixeira, E. R. Structural Engineering International, 34(2), 266–280.",
+      "year": 2024,
+      "doi": "10.1080/10168664.2023.2265965",
+      "metrics": {
+        "status": "available",
+        "citations": 28,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1080/10168664.2023.2265965"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Empirical evidence-based semantic models for seismic vulnerability assessment of masonry historical buildings: lessons from Mexican experiences",
+      "citation": "(2024) Ramírez Eudave, R., and Ferreira, T. M. Revista REDER, 8(1), 131. (in Spanish)",
+      "year": 2024,
+      "doi": "10.55467/reder.v8i1.142",
+      "metrics": {
+        "status": "available",
+        "citations": 0,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.55467/reder.v8i1.142"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Mechanical characterisation of adobe samples from the state of Morelos, Mexico",
+      "citation": "(2024) Ramírez Eudave, R., Ferreira, T. M., Lourenço, P. B., Peña, F., and Chávez, M. M. Proceedings of the ICE – Construction Materials, 177(3), 111–124.",
+      "year": 2024,
+      "doi": "10.1680/jcoma.23.00021",
+      "metrics": {
+        "status": "available",
+        "citations": 2,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1680/jcoma.23.00021"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Parametric and Machine Learning-Based Analysis of the Seismic Vulnerability of Adobe Historical Buildings Damaged After the September 2017 Mexico Earthquakes",
+      "citation": "(2024) Ramírez Eudave, R., Ferreira, T. M., Vicente, R., Lourenço, P. B., and Peña, F. International Journal of Architectural Heritage, 18(6), 940–963.",
+      "year": 2024,
+      "doi": "10.1080/15583058.2023.2200739",
+      "metrics": {
+        "status": "available",
+        "citations": 15,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1080/15583058.2023.2200739"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Implementing Open-Source Information Systems for Assessing and Managing the Seismic Vulnerability of Historical Constructions",
+      "citation": "(2023) Ramírez Eudave, R., Rodrigues, D., Ferreira, T. M., and Vicente, R. Buildings, 13(2), 540.",
+      "year": 2023,
+      "doi": "10.3390/buildings13020540",
+      "metrics": {
+        "status": "available",
+        "citations": 4,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.3390/buildings13020540"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Assessing and Managing Risk in Historic Urban Areas: Current Trends and Future Research Directions",
+      "citation": "(2022) Ferreira, T. M., and Ramírez Eudave, R. Frontiers in Earth Science, 10, 847959.",
+      "year": 2022,
+      "doi": "10.3389/feart.2022.847959",
+      "metrics": {
+        "status": "available",
+        "citations": 28,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.3389/feart.2022.847959"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "On the Use of Web Mapping Platforms to Support the Seismic Vulnerability Assessment of Old Urban Areas",
+      "citation": "(2022) Columbro, C., Ramírez Eudave, R., Ferreira, T. M., Lourenço, P. B., and Fabbrocino, G. Remote Sensing, 14(6), 1424.",
+      "year": 2022,
+      "doi": "10.3390/rs14061424",
+      "metrics": {
+        "status": "available",
+        "citations": 18,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.3390/rs14061424"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Parameter-based seismic vulnerability assessment of Mexican historical buildings: Insights, suitability, and uncertainty treatment",
+      "citation": "(2022) Ramírez Eudave, R., Ferreira, T. M., and Vicente, R. International Journal of Disaster Risk Reduction, 74, 102909.",
+      "year": 2022,
+      "doi": "10.1016/j.ijdrr.2022.102909",
+      "metrics": {
+        "status": "available",
+        "citations": 19,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1016/j.ijdrr.2022.102909"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Early-age shrinkage and bond of LC-TRM strengthening in rammed earth",
+      "citation": "(2022) Ramírez Eudave, R., Silva, R. A., Pereira, E., and Romanazzi, A. Construction and Building Materials, 350, 128809.",
+      "year": 2022,
+      "doi": "10.1016/j.conbuildmat.2022.128809",
+      "metrics": {
+        "status": "available",
+        "citations": 9,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1016/j.conbuildmat.2022.128809"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "The rupestrian church of San Pietro da Morrone (Matera, Italy): Insights and photogrammetric-based characterisation",
+      "citation": "(2021) Ramírez Eudave, R., D'Amato, M., and Andrisani, G. Conservation Science in Cultural Heritage, 21.",
+      "year": 2021,
+      "doi": "10.48255/1973-9494.JCSCH.21.2021.12",
+      "metrics": {
+        "status": "not-indexed",
+        "retrieved_at": "2026-10-22"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Characterisation of the Historic Urban Landscape through the Aristotelian Four Causes: Towards Comprehensive GIS Databases",
+      "citation": "(2021) Ramírez Eudave, R., and Ferreira, T. M. Remote Sensing, 13(10), 1879.",
+      "year": 2021,
+      "doi": "10.3390/rs13101879",
+      "metrics": {
+        "status": "available",
+        "citations": 14,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.3390/rs13101879"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "On the potential of using the Mexican National Catalogue of Historical Monuments for assessing the seismic vulnerability of existing buildings: A proof-of-concept study",
+      "citation": "(2021) Ramírez Eudave, R., and Ferreira, T. M. Bulletin of Earthquake Engineering, 19(12), 4945–4978.",
+      "year": 2021,
+      "doi": "10.1007/s10518-021-01154-5",
+      "metrics": {
+        "status": "available",
+        "citations": 11,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1007/s10518-021-01154-5"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "On the suitability of a unified GIS-BIM-HBIM framework for cataloguing and assessing vulnerability in Historic Urban Landscapes: A critical review",
+      "citation": "(2021) Ramírez Eudave, R., and Ferreira, T. M. International Journal of Geographical Information Science, 35(10), 2047–2077.",
+      "year": 2021,
+      "doi": "10.1080/13658816.2020.1844208",
+      "metrics": {
+        "status": "available",
+        "citations": 42,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1080/13658816.2020.1844208"
+      }
+    },
+    {
+      "category": "journal",
+      "title": "Towards a Semi-Quantitative Approach for Assessing Evacuation Scenarios in the Context of Popocatépetl Volcano, México—The Case of San Pedro Tlalmimilulpan",
+      "citation": "(2021) Ramírez Eudave, R., and Ferreira, T. M. GeoHazards, 2(1), 1–16.",
+      "year": 2021,
+      "doi": "10.3390/geohazards2010001",
+      "metrics": {
+        "status": "available",
+        "citations": 4,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.3390/geohazards2010001"
+      }
+    },
+    {
+      "category": "chapter",
+      "title": "The Hermitage of Silence at the Popocatépetl volcano in Mexico: An altar for the centuries",
+      "citation": "(2025) Ramírez Eudave, R. In D. Liutikas (Ed.), Geographies of Religious Spaces and Sacred Landscapes (pp. 117–129). Edward Elgar Publishing.",
+      "year": 2025,
+      "doi": "10.4337/9781035343829.00014",
+      "metrics": {
+        "status": "available",
+        "citations": 0,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.4337/9781035343829.00014"
+      }
+    },
+    {
+      "category": "chapter",
+      "title": "Machine Learning-Assisted Identification of Vulnerable Historic Buildings in Urban Environments",
+      "citation": "(2024) Ramírez Eudave, R., Ferreira, T. M., and Vicente, R. In G. A. Tsihrintzis, M. Virvou, H. Doukas, and L. C. Jain (Eds), Advances in Artificial Intelligence-Empowered Decision Support Systems (Vol. 39, pp. 225–243). Springer Nature Switzerland.",
+      "year": 2024,
+      "doi": "10.1007/978-3-031-62316-5_9",
+      "metrics": {
+        "status": "available",
+        "citations": 0,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1007/978-3-031-62316-5_9"
+      }
+    },
+    {
+      "category": "chapter",
+      "title": "Uso potencial del Catálogo Nacional de Monumentos Históricos para evaluaciones de vulnerabilidad sísmica basadas en parámetros: El terremoto del 19 de septiembre de 2017 en Atlixco, Puebla, como caso de estudio",
+      "citation": "(2024) Ramírez Eudave, R. In Experiencias en gestión de riesgos para el patrimonio cultural en Iberoamérica (1st ed.). ICCROM.",
+      "year": 2024,
+      "doi": null,
+      "metrics": {
+        "status": "no-doi"
+      }
+    },
+    {
+      "category": "chapter",
+      "title": "Building survey and characterization techniques at different scales",
+      "citation": "(2022) Ramírez Eudave, R., Rodrigues, H., and Ferreira, T. M. In Seismic Vulnerability Assessment of Civil Engineering Structures At Multiple Scales (pp. 1–31). Elsevier.",
+      "year": 2022,
+      "doi": "10.1016/B978-0-12-824071-7.00012-3",
+      "metrics": {
+        "status": "available",
+        "citations": 2,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1016/B978-0-12-824071-7.00012-3"
+      }
+    },
+    {
+      "category": "chapter",
+      "title": "Traditional earth construction in Latin America: A review on the construction systems and reinforcement strategies",
+      "citation": "(2021) Baquedano, P., Ramírez Eudave, R., Miranda, F. N., Graus, S., and Ferreira, T. M. In Masonry Construction in Active Seismic Regions (pp. 99–121). Elsevier.",
+      "year": 2021,
+      "doi": "10.1016/B978-0-12-821087-1.00011-9",
+      "metrics": {
+        "status": "available",
+        "citations": 18,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1016/B978-0-12-821087-1.00011-9"
+      }
+    },
+    {
+      "category": "chapter",
+      "title": "Diagnosis and Structural Assessment of the Fortress and Convent of Ínsua de São Isidro",
+      "citation": "(2019) Granda, S., Lopez, S., Navia, F., Ramírez, E., Ramírez Eudave, R., Ramos, L. F., and Mendes, N. In R. Aguilar, D. Torrealva, S. Moreira, M. A. Pando, and L. F. Ramos (Eds), Structural Analysis of Historical Constructions (Vol. 18, pp. 2386–2394). Springer International Publishing.",
+      "year": 2019,
+      "doi": "10.1007/978-3-319-99441-3_256",
+      "metrics": {
+        "status": "available",
+        "citations": 1,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1007/978-3-319-99441-3_256"
+      }
+    },
+    {
+      "category": "conference",
+      "title": "From words to 3D: a framework for connecting urban form regulations to digital data",
+      "citation": "Ramírez Eudave, R., and Hersperger, Anna M. International Forum of Urbanism (IFoU). Lisbon, Portugal, 01–04.07.2025",
+      "year": 2025,
+      "doi": null,
+      "metrics": {
+        "status": "no-doi"
+      }
+    },
+    {
+      "category": "conference",
+      "title": "Assessing the seismic vulnerability of historical cities: parametric evaluation of masonry buildings in Mexico",
+      "citation": "Ramírez Eudave, R., Ferreira, T., and Vicente, R. SÍSMICA 2024 13th National Congress of Seismology and Seismic Engineering. Guimarães, Portugal, 17–19.04.2024",
+      "year": 2024,
+      "doi": null,
+      "metrics": {
+        "status": "no-doi"
+      }
+    },
+    {
+      "category": "conference",
+      "title": "On-site evaluation of the quality of old constructions' masonry using real-time distributed online GIS databases",
+      "citation": "Ramírez Eudave, R., Baquedano, P., Ferreira, T., and Qureshi, T. Canadian Society for Civil Engineering Annual Conference. Moncton, Canada, 24–27.05.2023.",
+      "year": 2023,
+      "doi": "10.1007/978-3-031-61539-9_31",
+      "metrics": {
+        "status": "available",
+        "citations": 0,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1007/978-3-031-61539-9_31"
+      }
+    },
+    {
+      "category": "conference",
+      "title": "A critical route for the documentation of the seismic vulnerability of Mexican historical cities on GIS databases",
+      "citation": "Ramírez Eudave, R., Ferreira, T. M., and Vicente, R. 9th REHABEND: Pathology, Rehabilitation Technology and Heritage Management. Granada, Spain, 12–16.09.2022",
+      "year": 2022,
+      "doi": null,
+      "metrics": {
+        "status": "no-doi"
+      }
+    },
+    {
+      "category": "conference",
+      "title": "Implementing open-source information systems for assessing the seismic vulnerability of historical constructions",
+      "citation": "Ramírez Eudave, R., Rodrigues, D., Ferreira, T. M., and Vicente, R. 10th ReUSO Documentation, Restoration and Reuse of Heritage Congress. Porto, Portugal, 02–04.11.2022",
+      "year": 2022,
+      "doi": null,
+      "metrics": {
+        "status": "no-doi"
+      }
+    },
+    {
+      "category": "conference",
+      "title": "The Functional Schematisation of the City as a Model for Anticipating Post-event Scenarios for Volcanic Hazards",
+      "citation": "Ramírez Eudave, R., and Ferreira, T. M. 3rd International Workshop on Natural Hazards. Angra do Heroísmo, Portugal, 22–27.05.2022.",
+      "year": 2022,
+      "doi": "10.1007/978-3-031-25042-2_22",
+      "metrics": {
+        "status": "available",
+        "citations": 0,
+        "retrieved_at": "2026-10-22",
+        "source_url": "https://api.crossref.org/works/10.1007/978-3-031-25042-2_22"
+      }
+    },
+    {
+      "category": "conference",
+      "title": "Proposal for a suitable workflow for assessing the seismic vulnerability of historical buildings",
+      "citation": "Ramírez Eudave, R., and Ferreira, T. M. 1st Croatian Conference on Earthquake Engineering (CroCEE). Zagreb, Croatia, 22.03.2021.",
+      "year": 2021,
+      "doi": "10.5592/CO/1CroCEE.21.22",
+      "metrics": {
+        "status": "not-indexed",
+        "retrieved_at": "2026-10-22"
+      }
+    },
+    {
+      "category": "conference",
+      "title": "The Aristotelian causes principle as an approach to the architectural object: the case of San Pietro in Morrone",
+      "citation": "Ramírez Eudave, R., and Andrisani, G. XIV Congresso Internazionale di Riabilitazione del Patrimonio. Matera, Italy, 20.06.2018",
+      "year": 2018,
+      "doi": null,
+      "metrics": {
+        "status": "no-doi"
+      }
+    },
+    {
+      "category": "conference",
+      "title": "Investigation of the bond and shrinkage behaviour of TRM strengthening for rammed earth",
+      "citation": "Silva, R., Oliveira, D., Barroso, C., Ramírez Eudave, R., Pereira, E., and Lourenço, P. 8th REHABEND: Pathology, Rehabilitation Technology and Heritage Management, Cáceres, Spain, 15–18.05.2018",
+      "year": 2018,
+      "doi": null,
+      "metrics": {
+        "status": "no-doi"
+      }
+    }
+  ]
+}

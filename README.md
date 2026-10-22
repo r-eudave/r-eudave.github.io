@@ -7,12 +7,15 @@ An English/Spanish personal website positioned at the interplay of heritage, ris
 ## Structure
 
 - `index.html`: accessible English content and authored Spanish translations.
+- `publications.html`: complete CV bibliography, grouped by publication type, with static Crossref citation snapshots.
+- `publications.json`: bibliographic records and per-DOI metric provenance.
+- `scripts/update_publications.rb`: imports publication sections from a local CV and refreshes metrics using the public Crossref API.
 - `styles.css`: responsive layout, reduced-motion support, and print styles.
 - `script.js`: language selection through `?lang=en` or `?lang=es`, translated metadata, and footer year. English content works without JavaScript; Spanish requires JavaScript.
 - `assets/`: locally hosted, resized portfolio images and favicon.
 - `.nojekyll`: serves the site as plain static files on GitHub Pages.
 
-No framework, package installation, external fonts, analytics, cookies, or build step is required. Language links preserve the current section. The site makes no third-party requests until a visitor follows an external link.
+No framework, package installation, external fonts, analytics, cookies, or build step is required to serve the site. Language links preserve the current section, and links between the homepage and bibliography retain the selected language. The site makes no third-party requests until a visitor follows an external link; citation metrics are retrieved offline by the maintenance script, not in visitors' browsers.
 
 ## Content and image sources
 
@@ -25,7 +28,39 @@ Content is adapted from the privately maintained repository `r-eudave/0_CV-and-P
 
 Research headings on the website describe research themes; they are not presented as verbatim article titles. Follow DOI links for full bibliographic records. Publication and funding figures reflect the source CV and should be updated when it changes. Contact uses the professional email in the source; the phone number is deliberately omitted. Only selected projects are published: the full CV, full portfolio, and CORDHISK software are offered by email on request, not linked to inaccessible private repositories.
 
+The complete bibliography was imported from `CV_EN.tex` at revision `98574744d53bfaf5fbb3fc23f3fbb6bdc078ecf8`: 21 journal articles, 6 book chapters, and 9 conference contributions. It retains original titles, author lists, CV publication years, conference dates, and in-press labels. Only bibliographic records are copied, not the full private CV.
+
 Images retain the authorship and rights of their original portfolio contributions; this repository does not grant a new licence for those works.
+
+## Publication metrics and maintenance
+
+Citation counts use Crossref's `is-referenced-by-count` field, retrieved by exact DOI. Each available metric links to its Crossref API source and shows its retrieval date. The initial snapshot contains 27 available counts, 2 DOIs not found in Crossref, and 7 entries without a DOI in the CV. Zero is only displayed when Crossref explicitly returns zero; unavailable records are labelled separately.
+
+Crossref coverage is incomplete and counts differ between databases. These are publication-level citation counts, not journal impact factors, readership totals, or a measure of quality. Records without DOIs are not matched by guessed titles.
+
+Refresh the snapshot using Ruby 2.6 or later (standard library only), from the website directory:
+
+```sh
+ruby scripts/update_publications.rb --refresh
+```
+
+To reimport a newer local CV and refresh:
+
+```sh
+ruby scripts/update_publications.rb --import-cv /absolute/path/to/CV_EN.tex --source-revision COMMIT_SHA --refresh
+```
+
+The script writes the JSON snapshot and regenerates the marked bibliography block in the HTML only after all requests finish. A Crossref 404 is recorded as unavailable; unexpected HTTP errors, malformed responses, and invalid counts fail explicitly rather than substituting zero or overwriting the snapshot with partial results. Review changed counts and references before committing. If the publication totals change, also update the homepage link and bibliography introduction/category navigation. To regenerate HTML without making network requests:
+
+```sh
+ruby scripts/update_publications.rb
+```
+
+Run the focused regression tests:
+
+```sh
+ruby tests/publications_test.rb
+```
 
 ## Editing
 

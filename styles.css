@@ -82,6 +82,24 @@ figcaption { margin-top: auto; padding-top: 13px; display: flex; gap: 10px; just
 .research-year { font-size: .78rem; color: var(--wine); }
 .research-row p { font-size: .76rem; margin-top: 7px; }
 .row-arrow { font-size: 1.4rem; }
+.publication-cta { margin-top: 30px; }
+.publication-navigation { display: flex; flex-wrap: wrap; gap: 15px 28px; margin-block: 30px; font-size: .85rem; }
+.metrics-note { padding: 24px; background: var(--panel); border-left: 2px solid var(--wine); }
+.metrics-note h2 { font: 550 1.1rem/1.4 var(--sans); letter-spacing: 0; }
+.metrics-note p { font-size: .8rem; margin-top: 12px; }
+.publication-category { margin-block: 60px; }
+.publication-category h2 { font-size: clamp(2rem, 4vw, 3rem); }
+.publication-count { font: .55em var(--sans); color: var(--muted); }
+.publication-list { padding: 0; margin: 25px 0 0; list-style: none; border-top: 1px solid var(--line); }
+.publication-entry { padding-block: 25px; border-bottom: 1px solid var(--line); break-inside: avoid; overflow-wrap: anywhere; }
+.publication-year { color: var(--wine); font-size: .75rem; margin-bottom: 8px; }
+.publication-entry h3 { max-width: 1000px; }
+.publication-entry h3 a { text-decoration: none; }
+.publication-entry h3 a:hover { text-decoration: underline; }
+.publication-citation { font-size: .85rem; margin-top: 12px; max-width: 1000px; }
+.publication-metrics { display: flex; flex-wrap: wrap; gap: 8px 16px; margin-top: 14px; align-items: baseline; font-size: .76rem; }
+.publication-metric { color: var(--wine); }
+.metric-date { font-size: .7rem; }
 .experience { display: grid; grid-template-columns: .85fr 1.25fr; gap: 90px; }
 .experience > div > p:not(.eyebrow) { max-width: 320px; font-size: .9rem; margin-top: 25px; }
 .experience > div > .text-link { margin-top: 28px; }
