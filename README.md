@@ -1,6 +1,6 @@
 # Rafael Ramírez Eudave — personal website
 
-An English/Spanish personal website focused on heritage at risk: connecting seismic vulnerability assessment, community memory, and digital documentation. The editorial framing distinguishes physical loss from the loss of knowledge and meaning, and presents documentation as evidence to support conservation, not a substitute for it.
+An English/Spanish personal website positioned at the interplay of heritage, risk, and digitisation. The editorial framing connects heritage values and community knowledge, vulnerability assessment, and digital evidence as mutually informing perspectives. It distinguishes physical loss from the loss of knowledge and meaning, and presents documentation as support for conservation, not a substitute for it.
 
 **Website:** https://r-eudave.github.io/
 
