@@ -31,9 +31,9 @@ if (language === "es") {
   document.querySelectorAll("[data-es-aria]").forEach((element) => {
     element.setAttribute("aria-label", element.dataset.esAria);
   });
-  document.title = "Rafael Ramírez Eudave | Patrimonio, investigación y futuros digitales";
+  document.title = "Rafael Ramírez Eudave | Patrimonio en riesgo";
   document.querySelector('meta[name="description"]').content =
-    "Rafael Ramírez Eudave, arquitecto e investigador en patrimonio digital, memoria colectiva y riesgo sísmico. Investigador Marie Skłodowska-Curie en TU Delft.";
+    "Rafael Ramírez Eudave investiga el patrimonio en riesgo: vulnerabilidad sísmica, memoria colectiva y documentación digital. Investigador Marie Skłodowska-Curie en TU Delft.";
   document.querySelector('meta[property="og:title"]').content = document.title;
   document.querySelector('meta[property="og:description"]').content =
     document.querySelector('meta[name="description"]').content;
