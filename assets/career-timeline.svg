@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 545" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+  <title id="t">Professional path across four fields, 2010–2026</title>
+  <desc id="d">Timeline of Rafael Ramírez Eudave's work in architecture and design, cultural heritage, structural and seismic engineering, and heritage digitisation.</desc>
+  <rect width="1300" height="545" fill="#faf9f5"/>
+
+  <g fill="#62635b" font-size="11" text-anchor="middle">
+    <text x="268" y="38">2010</text><text x="324" y="38">2011</text><text x="380" y="38">2012</text><text x="436" y="38">2013</text>
+    <text x="492" y="38">2014</text><text x="548" y="38">2015</text><text x="604" y="38">2016</text><text x="660" y="38">2017</text>
+    <text x="716" y="38">2018</text><text x="772" y="38">2019</text><text x="828" y="38">2020</text><text x="884" y="38">2021</text>
+    <text x="940" y="38">2022</text><text x="996" y="38">2023</text><text x="1052" y="38">2024</text><text x="1108" y="38">2025</text>
+    <text x="1164" y="38">2026</text>
+  </g>
+  <g stroke="#d8d6cc" stroke-width="1">
+    <path d="M240 52H1192"/>
+    <path d="M240 52V540M296 52V540M352 52V540M408 52V540M464 52V540M520 52V540M576 52V540M632 52V540M688 52V540M744 52V540M800 52V540M856 52V540M912 52V540M968 52V540M1024 52V540M1080 52V540M1136 52V540M1192 52V540" opacity=".55"/>
+    <path d="M20 180H1280M20 300H1280M20 420H1280"/>
+  </g>
+
+  <g>
+    <text x="20" y="92" font-size="16" font-weight="700" fill="#c4621a">Architecture and design</text>
+    <text x="20" y="112" font-size="11" fill="#62635b">Design, representation and</text>
+    <text x="20" y="126" font-size="11" fill="#62635b">architectural projects</text>
+
+    <text x="20" y="212" font-size="16" font-weight="700" fill="#a82037">Cultural heritage</text>
+    <text x="20" y="232" font-size="11" fill="#62635b">History, analysis, intervention</text>
+    <text x="20" y="246" font-size="11" fill="#62635b">and conservation</text>
+
+    <text x="20" y="332" font-size="16" font-weight="700" fill="#255f9f">Structural and seismic engineering</text>
+    <text x="20" y="352" font-size="11" fill="#62635b">Seismic analysis, structural</text>
+    <text x="20" y="366" font-size="11" fill="#62635b">behaviour and risk assessment</text>
+
+    <text x="20" y="452" font-size="16" font-weight="700" fill="#237a52">Heritage digitisation</text>
+    <text x="20" y="472" font-size="11" fill="#62635b">GIS, BIM, photogrammetry, data,</text>
+    <text x="20" y="486" font-size="11" fill="#62635b">ontologies and heritage management</text>
+  </g>
+
+  <g font-size="11" fill="#272723">
+    <g fill="#d9772b">
+      <rect x="296" y="82" width="112" height="8" rx="4"/>
+      <rect x="408" y="130" width="224" height="8" rx="4"/>
+      <rect x="688" y="82" width="112" height="8" rx="4"/>
+      <rect x="1080" y="130" width="112" height="8" rx="4"/>
+    </g>
+    <text x="296" y="106">Sketching &amp; watercolour<tspan x="296" dy="13">on site (2011–12)</tspan></text>
+    <text x="408" y="154">Architectural projects in<tspan x="408" dy="13">historical contexts (2013–16)</tspan></text>
+    <text x="688" y="106">Intervention in historic<tspan x="688" dy="13">buildings (2018–19)</tspan></text>
+    <text x="1080" y="154">Heritage-focused design<tspan x="1080" dy="13">approach (2025–present)</tspan></text>
+
+    <g fill="#c8344b">
+      <rect x="296" y="202" width="112" height="8" rx="4"/>
+      <rect x="464" y="250" width="112" height="8" rx="4"/>
+      <rect x="688" y="202" width="112" height="8" rx="4"/>
+      <rect x="856" y="250" width="168" height="8" rx="4"/>
+      <rect x="1024" y="202" width="168" height="8" rx="4"/>
+    </g>
+    <text x="296" y="226">Mexican architecture &amp;<tspan x="296" dy="13">archaeological sites (2011–12)</tspan></text>
+    <text x="464" y="274">Monument documentation<tspan x="464" dy="13">&amp; cataloguing (2014–15)</tspan></text>
+    <text x="688" y="226">Structural restoration &amp;<tspan x="688" dy="13">intervention (2018–19)</tspan></text>
+    <text x="856" y="274">Analysis &amp; valorisation of<tspan x="856" dy="13">cultural heritage (2021–23)</tspan></text>
+    <text x="1024" y="226">Heritage at risk &amp;<tspan x="1024" dy="13">collective memory (2024–26)</tspan></text>
+
+    <g fill="#3b86d6">
+      <rect x="576" y="322" width="112" height="8" rx="4"/>
+      <rect x="744" y="370" width="168" height="8" rx="4"/>
+      <rect x="856" y="322" width="168" height="8" rx="4"/>
+      <rect x="1024" y="370" width="168" height="8" rx="4"/>
+    </g>
+    <text x="576" y="346">Introduction to structural<tspan x="576" dy="13">analysis (2016–17)</tspan></text>
+    <text x="744" y="394">Material characterisation &amp;<tspan x="744" dy="13">laboratory testing (2019–21)</tspan></text>
+    <text x="856" y="346">Seismic damage modelling<tspan x="856" dy="13">&amp; machine learning (2021–23)</tspan></text>
+    <text x="1024" y="394">Seismic vulnerability &amp;<tspan x="1024" dy="13">heritage resilience (2024–26)</tspan></text>
+
+    <g fill="#3aa876">
+      <rect x="520" y="442" width="112" height="8" rx="4"/>
+      <rect x="800" y="490" width="168" height="8" rx="4"/>
+      <rect x="912" y="442" width="112" height="8" rx="4"/>
+      <rect x="1024" y="490" width="112" height="8" rx="4"/>
+      <rect x="1080" y="442" width="112" height="8" rx="4"/>
+    </g>
+    <text x="520" y="466">Digital surveying &amp;<tspan x="520" dy="13">photogrammetry (2015–16)</tspan></text>
+    <text x="800" y="514">GIS for urban seismic<tspan x="800" dy="13">information (2020–22)</tspan></text>
+    <text x="912" y="466">Machine learning &amp;<tspan x="912" dy="13">data analysis (2022–23)</tspan></text>
+    <text x="1024" y="514">Ontologies &amp; 3D<tspan x="1024" dy="13">standardisation (2024–25)</tspan></text>
+    <text x="1080" y="466">Memory Twins, FAIR metadata<tspan x="1080" dy="13">&amp; data analysis (2025–26)</tspan></text>
+  </g>
+</svg>
