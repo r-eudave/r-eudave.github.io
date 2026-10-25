@@ -20,4 +20,9 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://r-eudave.github.io/publications.html?lang=en"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://r-eudave.github.io/publications.html?lang=es"/>
   </url>
+  <url>
+    <loc>https://r-eudave.github.io/cv.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://r-eudave.github.io/cv.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://r-eudave.github.io/cv.html"/>
+  </url>
 </urlset>

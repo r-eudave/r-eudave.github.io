@@ -7,6 +7,7 @@ An English/Spanish personal website positioned at the interplay of heritage, ris
 ## Structure
 
 - `index.html`: accessible English content and authored Spanish translations.
+- `cv.html`: English CV with a browser print / save-as-PDF option.
 - `publications.html`: complete CV bibliography, grouped by publication type, with static Crossref citation snapshots.
 - `publications.json`: bibliographic records and per-DOI metric provenance.
 - `scripts/update_publications.rb`: imports publication sections from a local CV and refreshes metrics using the public Crossref API.
@@ -26,9 +27,9 @@ Content is adapted from the privately maintained repository `r-eudave/0_CV-and-P
 - `images/project-10.jpg`, `project-16.jpg`, `project-20.jpg`, `project-22.jpg`, `project-24.jpg`, `project-25.jpg`: selected portfolio plates, resized to a maximum dimension of 1600 pixels.
 - `assets/heritage-model.jpg`: cropped from the top of `images/project-10.jpg`.
 
-Research headings on the website describe research themes; they are not presented as verbatim article titles. Follow DOI links for full bibliographic records. Publication and funding figures reflect the source CV and should be updated when it changes. Contact uses the professional email in the source; the phone number is deliberately omitted. Only selected projects are published: the full CV, full portfolio, and CORDHISK software are offered by email on request, not linked to inaccessible private repositories.
+Research headings on the website describe research themes; they are not presented as verbatim article titles. Follow DOI links for full bibliographic records. Publication and funding figures reflect the source CV and should be updated when it changes. Contact uses the professional email in the source; the phone number is deliberately omitted. Only selected projects are published; the full portfolio and CORDHISK software remain available by email on request.
 
-The complete bibliography was imported from `CV_EN.tex` at revision `98574744d53bfaf5fbb3fc23f3fbb6bdc078ecf8`: 21 journal articles, 6 book chapters, and 9 conference contributions. It retains original titles, author lists, CV publication years, conference dates, and in-press labels. Only bibliographic records are copied, not the full private CV.
+The bibliography page contains 21 journal articles, 6 book chapters, and 9 conference contributions. The CV page presents education, work history, funding, awards, memberships, skills, languages, training, software, talks, teaching, and academic service.
 
 The TARES role title follows `CV_EN.tex` at revision `8da46fd5aca60add4fae1c51fe94d35dfbb6e36e`: “Consultant in Historic Structures.” The Spanish title remains “Consultor en estructuras históricas.” Its timeline description retains the six temple assessments, two restoration projects, multidisciplinary coordination, and on-site construction supervision documented in `CV_ES.tex`.
 

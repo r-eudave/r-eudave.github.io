@@ -52,4 +52,22 @@ class PublicationsTest < Minitest::Test
     assert_equal 36, page.scan('class="publication-entry"').length
     assert_includes page, Publications.render(records)
   end
+
+  def test_cv_page_is_linked_and_contains_key_supplied_content
+    root = Publications::ROOT
+    cv = File.read(File.join(root, "cv.html"), encoding: "UTF-8")
+    homepage = File.read(File.join(root, "index.html"), encoding: "UTF-8")
+    publications = File.read(File.join(root, "publications.html"), encoding: "UTF-8")
+    assert_includes homepage, 'href="cv.html" data-local-page'
+    assert_includes publications, 'href="cv.html" data-local-page'
+    assert_includes cv, '<html lang="en">'
+    %w[Education Work\ experience Awards Professional\ affiliations Skills Languages
+       Training Software Teaching Publications].each do |section|
+      assert_includes cv.downcase, section.tr("\\", "").downcase
+    end
+    assert_includes cv, "Rafael Ramírez Eudave, PhD"
+    assert_includes cv, "Marie Skłodowska-Curie Postdoctoral Fellow"
+    assert_includes cv, "View publications and metrics"
+    refute_includes cv, "(+31) 6 344 34 984"
+  end
 end
